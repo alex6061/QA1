@@ -1,0 +1,22 @@
+@use 'sass:math';
+@use 'sass:color';
+
+@import "fonts";
+@import "libs";
+@import "vars";
+@import "app/sass/res";
+
+	@import "app/sass/components/header";
+	@import "app/sass/components/hero";
+	@import "app/sass/components/clients";
+	@import "app/sass/components/work";
+
+
+
+	@import "app/sass/components/footer";
+	
+
+	
+
+
+
